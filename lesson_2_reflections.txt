@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates a .git file (which you can see if you do $ ls -a )
+
+If you don't do it it is merely a directory. once you've created the .git file the repository is ready to be logged. 
+
+git init turns a directory into a repository by adding hidden files (or rather adds repository functionality  into the directory because it also continues to be a directory)
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+You don't work in the staging area but you do put files there before you commit them so you can have a good look and decide whether or not they are right. Also, putting them together in the staging area makes them associated with eachother so when you commit them you'll commit all the ones in the staginag area. Does it make a permanent association? Will this happen every time I commit?  
