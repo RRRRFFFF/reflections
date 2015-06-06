@@ -17,3 +17,8 @@ Yes. Why yes, you can.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When I want to make a significant change that I might not want to keep. I won't get all in a muddle. 
+
+
+How do the diagrams help you visualize the branch structure?
+
+Because it is visual 
