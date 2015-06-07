@@ -22,3 +22,11 @@ When I want to make a significant change that I might not want to keep. I won't 
 How do the diagrams help you visualize the branch structure?
 
 Because it is visual 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Awesomeness
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+often it will get it right. it might not always. manually could be a lot of work. 
