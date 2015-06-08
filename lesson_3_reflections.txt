@@ -19,7 +19,7 @@ Branch is when you make a copy of a repository with the intention of being able 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    
+ so you can access it offline. or in case you're afraid of losing your access  
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
